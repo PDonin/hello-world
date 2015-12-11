@@ -1,1 +1,1 @@
-# I want to learn golang and finish a golagn project.
+# I want to learn golang and finish a golang project.
